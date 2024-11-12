@@ -89,5 +89,5 @@ The project designs a network to support various blocks on campus, including the
 - **University Main Router – interface serial 3/0**: `10.20.0.129/25`
 
 ```
-For more information about this project and detailed configurations, please refer to the document Assignment_2020E027.pdf.
+For more information about this project and detailed configurations, please refer to the document ITandDeptBlockNetworking.pdf.
 ```
